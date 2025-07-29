@@ -1,8 +1,12 @@
-<h1 align="center">Hello !! I am Pradeep Singh <img src="https://raw.githubusercontent.com/pradeep02712/pradeep/main/hi.gif" width="40px" height="40px" /> </h1>
+<h1 align="center">Hello !! I am Pradeep Singh <img src="https://raw.githubusercontent.com/pradeep02712/pradeep/main/hi (1).gif" width="40px" height="40px" /> </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/pradeep-singh-9826a029b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:pradeepsingh271220@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/Pradeepsingh_27" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+</a>
+
 </p>
 
 ## About Me:
